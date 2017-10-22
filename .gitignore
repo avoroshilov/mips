@@ -1,0 +1,4 @@
+/_remaining/*
+tests/.*/log.vcd
+tests/.*/data_memory_out.txt
+tests/.*/register_file_out.txt
