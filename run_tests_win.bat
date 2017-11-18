@@ -1,0 +1,1 @@
+cmd /k sh run_tests.sh
